@@ -19,7 +19,6 @@ source ./system_info.sh
     echo "SPACE_ROOT_USED = $SPACE_ROOT_USED"
     echo "SPACE_ROOT_FREE = $SPACE_ROOT_FREE"
 
-
 echo
 read -p "Save info? (Y/N): " answer
 
